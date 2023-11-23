@@ -1,5 +1,8 @@
-
-
+/*
+_name_: Smoke detector
+_autor_: Mohamed Amine Ben Ammar
+_date_: 16/08/2018
+*/
 
 int redLed = 12;
 int greenLed = 13;
